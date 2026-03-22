@@ -76,8 +76,7 @@ npm start
 
 ## 🌍 Live Demo
 
-*Add your deployed link here (if available)*
-
+https://pavidk-portfolio.netlify.app/
 ---
 
 ## 🚀 Future Improvements

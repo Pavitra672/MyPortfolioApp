@@ -67,7 +67,10 @@ npm start
 
 ## 📸 Screenshots
 
-*Add your portfolio screenshots here*
+<img width="1856" height="881" alt="image" src="https://github.com/user-attachments/assets/d6a5189a-3046-426b-9c2f-6e89acc057cb" />
+<img width="1692" height="821" alt="image" src="https://github.com/user-attachments/assets/adf7e3cc-92ca-4713-bf16-536a9bdf9f9b" />
+<img width="1900" height="880" alt="image" src="https://github.com/user-attachments/assets/9fa71980-73c2-41f1-bc69-b6bff34e4641" />
+<img width="1864" height="881" alt="image" src="https://github.com/user-attachments/assets/e7279840-6d5f-4eb8-b0c9-1cce5fa82fd2" />
 
 ---
 

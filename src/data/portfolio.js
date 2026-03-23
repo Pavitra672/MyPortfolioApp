@@ -4,18 +4,15 @@
 export const personal = {
   name: 'Pavitra Kambar',
   role: 'Computer Science Student',
-  email: 'pavitrakambar@email.com',
+  email: 'pavitrakambar106@gmail.com',
   github: 'https://github.com/Pavitra672',
   linkedin: 'https://www.linkedin.com/in/pavitra-kambar-5ab6412a6',
   resumeUrl: '/resume.pdf',
-  // ─── PHOTO ───────────────────────────────────────────────────
-  // Place your photo inside the /public folder as "photo.jpg"
-  // Then this path will work automatically:
   photo: '/photo.jpg',
   about: "Hey, I'm Pavitra. Building reliable full-stack applications and AI-powered solutions is my passion. I work at the intersection of React, Node.js, and Machine Learning — solving real-world problems with clean, efficient code. Currently exploring AI-driven automation in healthcare and agriculture. Always up for a challenge and excited to create impactful solutions.",
 }
 
-// ─── Projects ─────────────────────────────────────────────────
+// ─── Projects (All 6) ─────────────────────────────────────────
 export const projects = [
   {
     id: 1,
@@ -67,6 +64,16 @@ export const projects = [
     github: 'https://github.com/Pavitra672',
     demo: '#',
   },
+  {
+    id: 6,
+    icon: '🌐',
+    iconBg: 'rgba(34,211,160,0.1)',
+    title: 'Personal Portfolio Website',
+    desc: 'This very portfolio! A modern, interactive personal portfolio built with React, Framer Motion animations, dark/light mode, functional contact form via Formspree, and a fully responsive design.',
+    tech: ['React', 'Vite', 'Framer Motion', 'Tailwind CSS', 'Formspree'],
+    github: 'https://github.com/Pavitra672',
+    demo: '#',
+  },
 ]
 
 // ─── Skills ───────────────────────────────────────────────────
@@ -75,20 +82,20 @@ export const skillGroups = [
     label: '⚡ Frontend',
     color: 'var(--accent)',
     skills: [
-      { name: 'React.js',          pct: 88 },
-      { name: 'JavaScript (ES6+)', pct: 80 },
-      { name: 'HTML & CSS',        pct: 85 },
-      { name: 'Tailwind CSS',      pct: 70 },
+      { name: 'React.js',           pct: 88 },
+      { name: 'JavaScript (ES6+)',  pct: 80 },
+      { name: 'HTML & CSS',         pct: 85 },
+      { name: 'Tailwind CSS',       pct: 70 },
     ],
   },
   {
     label: '🔧 Backend',
     color: 'var(--green)',
     skills: [
-      { name: 'Node.js & Express', pct: 78 },
-      { name: 'MongoDB',           pct: 72 },
-      { name: 'REST APIs',         pct: 68 },
-      { name: 'SQL & DBMS',        pct: 65 },
+      { name: 'Node.js & Express',  pct: 78 },
+      { name: 'MongoDB',            pct: 72 },
+      { name: 'REST APIs',          pct: 68 },
+      { name: 'SQL & DBMS',         pct: 65 },
     ],
   },
   {
@@ -105,10 +112,10 @@ export const skillGroups = [
     label: '🛠️ Tools',
     color: 'var(--coral)',
     skills: [
-      { name: 'Git & GitHub',    pct: 80 },
-      { name: 'VS Code',         pct: 75 },
-      { name: 'Docker (Basics)', pct: 60 },
-      { name: 'Linux / CLI',     pct: 65 },
+      { name: 'Git & GitHub',       pct: 80 },
+      { name: 'VS Code',            pct: 75 },
+      { name: 'Docker (Basics)',    pct: 60 },
+      { name: 'Linux / CLI',        pct: 65 },
     ],
   },
 ]
